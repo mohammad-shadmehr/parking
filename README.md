@@ -1,5 +1,9 @@
 # parking charge calculator
 
+Run the WebApi project and navigate to https://localhost:44336/swagger/index.html
+
+Specifications:
+
 The inputs for this engine are:
 1. Car Entry Date and Time (format dd/MM/yyyy hh:mm)
 2. Car Exit Date and Time (format dd/MM/yyyy hh:mm)
