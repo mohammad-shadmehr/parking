@@ -1,0 +1,11 @@
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Infrastructure\bin\Debug\Parking.Infrastructure.dll
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Infrastructure\bin\Debug\Parking.Infrastructure.pdb
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Infrastructure\bin\Debug\Parking.Domain.Service.dll
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Infrastructure\bin\Debug\Parking.Domain.Service.pdb
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Infrastructure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Infrastructure\obj\Debug\Parking.Infrastructure.csprojAssemblyReference.cache
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Infrastructure\obj\Debug\Parking.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Infrastructure\obj\Debug\Parking.Infrastructure.csproj.CopyComplete
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Infrastructure\obj\Debug\Parking.Infrastructure.dll
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Infrastructure\obj\Debug\Parking.Infrastructure.pdb

@@ -1,0 +1,18 @@
+[
+  {
+    "maxHours": 1,
+    "rate": 5.00
+  },
+  {
+    "maxHours": 2,
+    "rate": 10.00
+  },
+  {
+    "maxHours": 3,
+    "rate": 15.00
+  },
+  {
+    "maxHours": 24,
+    "rate": 20.00
+  }
+]

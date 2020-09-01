@@ -1,0 +1,15 @@
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\bin\Debug\Parking.Domain.Service.dll
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\bin\Debug\Parking.Domain.Service.pdb
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\bin\Debug\Parking.Domain.Model.dll
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\bin\Debug\Parking.Infrastructure.CrossCutting.dll
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\bin\Debug\Parking.Infrastructure.dll
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\bin\Debug\Parking.Domain.Model.pdb
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\bin\Debug\Parking.Infrastructure.CrossCutting.pdb
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\bin\Debug\Parking.Infrastructure.pdb
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\obj\Debug\Parking.Domain.Service.csprojAssemblyReference.cache
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\obj\Debug\Parking.Domain.Service.csproj.CoreCompileInputs.cache
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\obj\Debug\Parking.Domain.Service.csproj.CopyComplete
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\obj\Debug\Parking.Domain.Service.dll
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\obj\Debug\Parking.Domain.Service.pdb

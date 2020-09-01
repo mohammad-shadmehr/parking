@@ -1,0 +1,12 @@
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\bin\Debug\Parking.Domain.Service.dll
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\bin\Debug\Parking.Domain.Service.pdb
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\obj\Debug\Parking.Domain.csprojAssemblyReference.cache
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\obj\Debug\Parking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\obj\Debug\Parking.Domain.Service.dll
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain.Service\obj\Debug\Parking.Domain.Service.pdb
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain\bin\Debug\Parking.Domain.Service.dll
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain\bin\Debug\Parking.Domain.Service.pdb
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain\obj\Debug\Parking.Domain.csprojAssemblyReference.cache
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain\obj\Debug\Parking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain\obj\Debug\Parking.Domain.Service.dll
+C:\Users\moham\Downloads\parking-calculator-master\parking-calculator-master\Parking\Parking.Domain\obj\Debug\Parking.Domain.Service.pdb
